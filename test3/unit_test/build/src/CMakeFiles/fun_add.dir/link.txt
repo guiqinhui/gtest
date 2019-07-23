@@ -1,0 +1,2 @@
+/usr/bin/ar cr libfun_add.a  CMakeFiles/fun_add.dir/fun_add.cc.o
+/usr/bin/ranlib libfun_add.a

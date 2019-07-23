@@ -1,0 +1,2 @@
+/mnt/code/gtest/gtest/test3/unit_test/build/CMakeFiles/Gtest1.dir
+/mnt/code/gtest/gtest/test3/unit_test/build/src/CMakeFiles/fun_add.dir

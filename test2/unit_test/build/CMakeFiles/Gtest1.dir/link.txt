@@ -1,0 +1,1 @@
+/usr/bin/c++    -g -std=c++11 -Wall    CMakeFiles/Gtest1.dir/unit_test/fun_add_unittest.cc.o CMakeFiles/Gtest1.dir/unit_test/main.cc.o  -o Gtest1 -rdynamic /usr/local/lib/x86_64-linux-gnu/libgtest.a /usr/local/lib/x86_64-linux-gnu/libgtest_main.a -lpthread src/libfun_add.a 

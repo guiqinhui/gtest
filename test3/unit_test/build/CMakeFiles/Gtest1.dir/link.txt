@@ -1,0 +1,1 @@
+/usr/bin/c++    -g -std=c++11 -Wall    CMakeFiles/Gtest1.dir/unit_test/fun_add_unittest.cc.o CMakeFiles/Gtest1.dir/unit_test/main.cc.o  -o Gtest1  -L/mnt/code/gtest/gtest/test3/unit_test/gtest_version/gtest_1.9.0/lib -rdynamic src/libfun_add.a -lgtest -lgmock -lpthread -Wl,-rpath,/mnt/code/gtest/gtest/test3/unit_test/gtest_version/gtest_1.9.0/lib 
